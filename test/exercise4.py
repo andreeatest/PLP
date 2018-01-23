@@ -1,11 +1,15 @@
 import json
 
 json_d = json.load(open("9a.json"))
-json_d2 =  json.load(open("9b.json"))
+json_d2 = json.load(open("9b.json"))
 math = []
 science = []
 lit = []
 for i in json_d:
+    math.append(i['math'])
+    science.append(i['science'])
+    lit.append(i['literature'])
+for i in json_d2:
     math.append(i['math'])
     science.append(i['science'])
     lit.append(i['literature'])
