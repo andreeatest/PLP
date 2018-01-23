@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="652c4f69-ca4a-4196-a506-c4d705319f67" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/9a.json" afterPath="$PROJECT_DIR$/test/9a.json" />
-      <change beforePath="$PROJECT_DIR$/9b.json" afterPath="$PROJECT_DIR$/test/9b.json" />
-      <change beforePath="$PROJECT_DIR$/exercise1.py" afterPath="$PROJECT_DIR$/test/exercise1.py" />
-      <change beforePath="$PROJECT_DIR$/exercise2.py" afterPath="$PROJECT_DIR$/test/exercise2.py" />
-      <change beforePath="$PROJECT_DIR$/exercise4.py" afterPath="$PROJECT_DIR$/test/exercise4.py" />
-      <change beforePath="$PROJECT_DIR$/pass.csv" afterPath="$PROJECT_DIR$/test/pass.csv" />
-      <change beforePath="$PROJECT_DIR$/passwd.txt" afterPath="$PROJECT_DIR$/test/passwd.txt" />
+      <change beforePath="$PROJECT_DIR$/test/9a.json" afterPath="$PROJECT_DIR$/9a.json" />
+      <change beforePath="$PROJECT_DIR$/test/9b.json" afterPath="$PROJECT_DIR$/9b.json" />
+      <change beforePath="$PROJECT_DIR$/test/exercise1.py" afterPath="$PROJECT_DIR$/exercise1.py" />
+      <change beforePath="$PROJECT_DIR$/test/exercise2.py" afterPath="$PROJECT_DIR$/exercise2.py" />
+      <change beforePath="$PROJECT_DIR$/test/exercise4.py" afterPath="$PROJECT_DIR$/exercise4.py" />
+      <change beforePath="$PROJECT_DIR$/test/pass.csv" afterPath="$PROJECT_DIR$/pass.csv" />
+      <change beforePath="$PROJECT_DIR$/test/passwd.txt" afterPath="$PROJECT_DIR$/passwd.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +20,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="exercise1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/exercise1.py">
+        <entry file="file://$PROJECT_DIR$/exercise1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -30,7 +30,7 @@
         </entry>
       </file>
       <file leaf-file-name="exercise2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/exercise2.py">
+        <entry file="file://$PROJECT_DIR$/exercise2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -40,10 +40,10 @@
         </entry>
       </file>
       <file leaf-file-name="exercise4.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/exercise4.py">
+        <entry file="file://$PROJECT_DIR$/exercise4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -58,6 +58,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/exercise4.py" />
+        <option value="$PROJECT_DIR$/test/exercise4.py" />
       </list>
     </option>
   </component>
@@ -88,11 +89,6 @@
             <path>
               <item name="PLP" type="b2602c69:ProjectViewProjectNode" />
               <item name="PLP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PLP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PLP" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -195,7 +191,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/exercise1.py">
+    <entry file="file://$PROJECT_DIR$/exercise1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -203,7 +199,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/exercise2.py">
+    <entry file="file://$PROJECT_DIR$/exercise2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -211,10 +207,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/exercise4.py">
+    <entry file="file://$PROJECT_DIR$/exercise4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
