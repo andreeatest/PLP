@@ -13,5 +13,3 @@ with open('passwd.txt') as f:
 
     print(d)
     print(newl)
-
-()
