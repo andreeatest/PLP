@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="652c4f69-ca4a-4196-a506-c4d705319f67" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercise3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/output.csv" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/exercise1.py" afterPath="$PROJECT_DIR$/exercise1.py" />
-      <change beforePath="$PROJECT_DIR$/passwd.txt" afterPath="$PROJECT_DIR$/passwd.txt" />
+      <change beforePath="$PROJECT_DIR$/exercise3.py" afterPath="$PROJECT_DIR$/exercise3.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,16 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="output.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/output.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="exercise1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exercise1.py">
           <provider selected="true" editor-type-id="text-editor">
